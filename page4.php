@@ -21,6 +21,27 @@
     <div class="shrink-0">
         <img class="h-50 w-50" src="img/big.jpg" alt="big">
     </div>
+
+    <div class="shrink-0">
+        <img class="h-50 w-50" src="img/big.jpg" alt="big">
+    </div>
+
+    <div class="shrink-0">
+        <img class="h-50 w-50" src="img/big.jpg" alt="big">
+    </div>
+
+    <div class="shrink-0">
+        <img class="h-50 w-50" src="img/big.jpg" alt="big">
+    </div>
+
+    <div class="shrink-0">
+        <img class="h-50 w-50" src="img/big.jpg" alt="big">
+    </div>
+
+
+    <div class="shrink-0">
+        <img class="h-50 w-50" src="img/big.jpg" alt="big">
+    </div>
 </div>
 
 
