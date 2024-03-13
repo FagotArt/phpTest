@@ -8,7 +8,7 @@
 <body>
 
 <div>
-    <h2>TestDeploy</h2>
+    <h2>TestDeploy!!</h2>
     <img src="https://via.placeholder.com/150" alt="Placeholder Image">
     <p><a href="page2.php">Перейти на страницу 2</a></p>
     <p><a href="page3.php">Page 3</a></p>
